@@ -59,10 +59,15 @@ Sistema interno voltado à automação de processos de Segurança e Saúde no Tr
 
 ## Aprendizado complementar
 
-Cursos e formações em bancos de dados, Linux, versionamento e desenvolvimento web.
+Cursos e formações em Python, bancos de dados, Linux, versionamento, desenvolvimento web e segurança.
 
 <details>
-<summary>Ver os 17 cursos e certificados</summary>
+<summary>Ver os 22 cursos e certificados</summary>
+
+### Python
+
+- **Programação em Python** — SENAI São Paulo, Escola Roberto Mange · 60 horas · ago. 2024.
+- [Python: crie a sua primeira aplicação](https://cursos.alura.com.br/certificate/bac0f108-0c5a-4532-8959-263fe66c0f2b) — Alura · 8 horas · ago. 2026.
 
 ### Banco de dados
 
@@ -76,6 +81,12 @@ Cursos e formações em bancos de dados, Linux, versionamento e desenvolvimento 
 - [Linux Onboarding: localizando arquivos e conteúdos](https://cursos.alura.com.br/certificate/699ef9e9-d52a-4ea5-a1e3-98346a992f04) — Alura · ago. 2023.
 - [Linux Onboarding: usando a CLI de uma forma rápida e prática](https://cursos.alura.com.br/certificate/cd24d0ec-9b79-49d4-9597-62b00ff9f550) — Alura · jul. 2023.
 - [Git e GitHub: repositório, commit e versões](https://cursos.alura.com.br/certificate/f06c6c2b-cfb4-4a1f-a6f9-f0eb97949f2b) — Alura · jul. 2023.
+
+### Segurança de redes e aplicações
+
+- [Segurança de rede: proxy reverso, SSH e DNS](https://cursos.alura.com.br/certificate/1808504d-790a-42d0-acbe-7547d8cbd2e0) — Alura · 8 horas · ago. 2026.
+- [Segurança de rede: firewall, WAF e SIEM](https://cursos.alura.com.br/certificate/52df6049-9fc2-47e1-914a-cb1b077394d3) — Alura · 10 horas · ago. 2026.
+- [Pentest: explorando vulnerabilidades em aplicações web](https://cursos.alura.com.br/certificate/beb97821-ac15-4ea1-b253-001c73cbc205) — Alura · 10 horas · ago. 2026.
 
 ### Desenvolvimento web
 
