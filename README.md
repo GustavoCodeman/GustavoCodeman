@@ -34,6 +34,10 @@ Também desenvolvi sistemas internos com APIs REST, modelagem de dados, migraç�
 ![Alembic](https://img.shields.io/badge/Alembic-475569?style=flat-square)
 ![Pytest](https://img.shields.io/badge/Pytest-475569?style=flat-square&logo=pytest&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-475569?style=flat-square&logo=sentry&logoColor=white)
+![Ruff](https://img.shields.io/badge/Ruff-475569?style=flat-square&logo=ruff&logoColor=white)
+![Mypy](https://img.shields.io/badge/Mypy-475569?style=flat-square)
+![Bandit](https://img.shields.io/badge/Bandit-475569?style=flat-square)
+![pip--audit](https://img.shields.io/badge/pip--audit-475569?style=flat-square)
 
 **Ferramentas**
 
@@ -62,6 +66,14 @@ Sistema interno voltado à automação de processos de Segurança e Saúde no Tr
 - Desenvolvimento de APIs REST com FastAPI e Pydantic.
 - Modelagem e implementação do banco de dados com SQLAlchemy.
 - Implementação de testes automatizados com TDD.
+
+## Práticas de engenharia
+
+- Desenvolvimento e documentação de APIs REST.
+- Modelagem relacional, migrações versionadas e integração com PostgreSQL.
+- Processamento assíncrono com filas e cache.
+- Testes unitários e de integração, análise estática e auditoria de dependências.
+- Observabilidade de aplicações e tratamento de falhas em ambientes de produção.
 
 ## Formação
 
