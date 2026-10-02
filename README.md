@@ -21,9 +21,7 @@ Também desenvolvi sistemas internos com APIs REST, modelagem de dados, migraç�
 
 ![SQL](https://img.shields.io/badge/SQL-334155?style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-334155?style=flat-square&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-334155?style=flat-square&logo=mariadb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-334155?style=flat-square&logo=supabase&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-334155?style=flat-square)
 ![Darwin Core](https://img.shields.io/badge/Darwin_Core-DwC--A-334155?style=flat-square)
 
 **Arquitetura, qualidade e operações**
@@ -35,8 +33,6 @@ Também desenvolvi sistemas internos com APIs REST, modelagem de dados, migraç�
 ![Pytest](https://img.shields.io/badge/Pytest-475569?style=flat-square&logo=pytest&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-475569?style=flat-square&logo=sentry&logoColor=white)
 ![Ruff](https://img.shields.io/badge/Ruff-475569?style=flat-square&logo=ruff&logoColor=white)
-![Mypy](https://img.shields.io/badge/Mypy-475569?style=flat-square)
-![Bandit](https://img.shields.io/badge/Bandit-475569?style=flat-square)
 ![pip--audit](https://img.shields.io/badge/pip--audit-475569?style=flat-square)
 
 **Ferramentas**
