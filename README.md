@@ -40,6 +40,9 @@ Também desenvolvi sistemas internos com APIs REST, modelagem de dados, migraç�
 ![Git](https://img.shields.io/badge/Git-475569?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-475569?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-475569?style=flat-square&logo=linux&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-334155?style=flat-square&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-334155?style=flat-square&logo=confluence&logoColor=white)
+![tldraw](https://img.shields.io/badge/tldraw-334155?style=flat-square&logo=tldraw&logoColor=white)
 
 ## Experiência em destaque
 
@@ -128,10 +131,3 @@ Cursos e formações em Python, bancos de dados, Linux, versionamento, desenvolv
 ## Contato
 
 [LinkedIn](https://www.linkedin.com/in/gustavo-lopes-151216190/) · [E-mail](mailto:guti-lop-naldi@hotmail.com)
-
-
-## Colaboração e documentação
-
-![Jira](https://img.shields.io/badge/Jira-334155?style=flat-square&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-334155?style=flat-square&logo=confluence&logoColor=white)
-![tldraw](https://img.shields.io/badge/tldraw-334155?style=flat-square&logo=tldraw&logoColor=white)
