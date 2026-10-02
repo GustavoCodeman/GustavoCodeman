@@ -6,7 +6,7 @@ Desenvolvo APIs e soluções para integrar, validar e disponibilizar dados.
 
 Minha experiência combina desenvolvimento backend com FastAPI e SQL com a atuação em sistemas de informação ambiental no Centro de Referência em Informação Ambiental (CRIA). Trabalho com dados científicos, processos ETL e suporte à rede speciesLink, conectando bancos relacionais heterogêneos à padronização de dados biológicos.
 
-Também desenvolvi o Boreal Core, um sistema interno para automatizar processos de Segurança e Saúde no Trabalho, com APIs REST, modelagem de banco de dados e testes automatizados.
+Também desenvolvi sistemas internos com APIs REST, modelagem de dados, migrações, processamento assíncrono, observabilidade e testes automatizados.
 
 ## Stack
 
@@ -22,7 +22,18 @@ Também desenvolvi o Boreal Core, um sistema interno para automatizar processos 
 ![SQL](https://img.shields.io/badge/SQL-334155?style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-334155?style=flat-square&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-334155?style=flat-square&logo=mariadb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-334155?style=flat-square&logo=supabase&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-334155?style=flat-square)
 ![Darwin Core](https://img.shields.io/badge/Darwin_Core-DwC--A-334155?style=flat-square)
+
+**Arquitetura, qualidade e operações**
+
+![Docker](https://img.shields.io/badge/Docker-475569?style=flat-square&logo=docker&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-475569?style=flat-square&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-475569?style=flat-square&logo=redis&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-475569?style=flat-square)
+![Pytest](https://img.shields.io/badge/Pytest-475569?style=flat-square&logo=pytest&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-475569?style=flat-square&logo=sentry&logoColor=white)
 
 **Ferramentas**
 
