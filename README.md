@@ -128,3 +128,10 @@ Cursos e formações em Python, bancos de dados, Linux, versionamento, desenvolv
 ## Contato
 
 [LinkedIn](https://www.linkedin.com/in/gustavo-lopes-151216190/) · [E-mail](mailto:guti-lop-naldi@hotmail.com)
+
+
+## Colaboração e documentação
+
+![Jira](https://img.shields.io/badge/Jira-334155?style=flat-square&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-334155?style=flat-square&logo=confluence&logoColor=white)
+![tldraw](https://img.shields.io/badge/tldraw-334155?style=flat-square&logo=tldraw&logoColor=white)
